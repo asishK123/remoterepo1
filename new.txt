@@ -1,2 +1,2 @@
 this is the new file
-i have changed it
+this is from local repositoryi have changed it
